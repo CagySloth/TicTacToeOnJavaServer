@@ -1,4 +1,4 @@
-1. Run GameServer in eclipse
+1. Run GameServer in eclipse/terminal
 
 	click GameServer.java in file explorer window in eclipse, click the run button
 
